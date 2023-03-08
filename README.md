@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vincent Ondeng</h1>
-<h3 align="center">I am a software engineer, geospatial web developer and a data scientist in the making.</h3>
+<h3 align="center">Why am I doing what I'm doing? My passion is to offer innovative solutions that leverage geospatial data and tech to solve real-world problems.<br> How am I doing it? I bring a unique set of skills to my work as a software and geospatial engineer.<br> What do I do?  I specialize in developing software solutions that integrate geospatial data and tech in a variety of applications.
+</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vincent-ondeng&label=Profile%20views&color=0e75b6&style=flat" alt="vincent-ondeng" /> </p>
