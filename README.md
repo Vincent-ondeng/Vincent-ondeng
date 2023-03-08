@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vincent Ondeng</h1>
-<h3 align="center">Why am I doing what I'm doing? My passion is to offer innovative solutions that leverage geospatial data and tech to solve real-world problems.<br> How am I doing it? I bring a unique set of skills to my work as a software and geospatial engineer.<br> What do I do?  I specialize in developing software solutions that integrate geospatial data and tech in a variety of applications.
+<h3 align="center">Why am I doing what I'm doing? My passion is to offer innovative solutions that leverage geospatial<br> data and tech to solve real-world problems.<br> How am I doing it? I bring a unique set of skills to my work as a software and geospatial engineer.<br> What do I do?  I specialize in developing software solutions that integrate geospatial data and tech in a variety of applications.
 </h3>
 
 
